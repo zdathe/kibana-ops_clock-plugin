@@ -5,7 +5,7 @@ module.exports = function (kibana) {
   return new kibana.Plugin({
 
     uiExports: {
-      visTypes: ['plugins/kibana-ops_clock-plugin/radial_clockâ€™]
+      visTypes: ['plugins/kibana-ops_clock-plugin/radial_clock']
     }
 
   });
